@@ -1,1 +1,1 @@
-A repository for my public work.
+My public workspace.
