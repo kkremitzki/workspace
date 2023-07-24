@@ -11,3 +11,6 @@ Steps outline:
 - sha512sum
 - gpg
 - dd
+
+It would be nice to have bootstrapping support for my tooling so it will work
+on not only a Debian starting host, but also macOS and Windows.
