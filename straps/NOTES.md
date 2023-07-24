@@ -14,3 +14,6 @@ Steps outline:
 
 It would be nice to have bootstrapping support for my tooling so it will work
 on not only a Debian starting host, but also macOS and Windows.
+
+The shell scripts I start this with should have some automated QA & deployment
+testing steps, using e.g. shellcheck (and what else?)
